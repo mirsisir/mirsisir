@@ -1,42 +1,73 @@
-# Hello, I'm [Your Name] 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hello" width="30px" height="60px">
+</p>
 
-I'm a Full-stack Laravel and Vue.js developer with 3 years of experience. I'm passionate about crafting code and building web applications that are both functional and user-friendly. 
+<!-- Introduction -->
+<h1 align="center">Hello, I'm Mir Sisir</h1>
 
-## About Me
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://your-banner-image-url.png" alt="Banner">
+</div>
 
-- 💼 Currently working on [Your Current Project].
-- 🌱 Learning and growing in the world of web development.
-- 🚀 Always looking for opportunities to work on exciting projects.
+<br/>
 
-## Skills
+## 👨🏻‍💻 About Me:
 
-- Laravel
-- Vue.js
-- HTML, CSS, JavaScript
-- PHP
-- MySQL
-- Git
-- [Add any other relevant skills]
+<img src="https://your-gif-image-url.gif" height="290px" align="right">
 
-## Projects
+- 🙋‍♂️ You can find everything about me on **[My Website](https://soumyajit.vercel.app/)**.
 
-Here are a few projects I'm proud of:
+- 🔭 Currently working on something interesting.
 
-- [Project 1 Name](Project1Link): Brief description of the project.
-- [Project 2 Name](Project2Link): Brief description of the project.
-- [Project 3 Name](Project3Link): Brief description of the project.
+- 🌱 Learning the MERN Stack.
 
-You can find more of my work on [My Portfolio](https://your-portfolio-link.com).
+- 👯 Open to collaborations on development projects.
 
-## Connect with Me
+- 🤔 Seeking help with competitive programming.
 
-- GitHub: [mirsisir](https://github.com/mirsisir)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- 💬 Feel free to ask me about anything, except math! 😅
 
-Feel free to reach out if you'd like to collaborate or discuss potential projects. I'm always open to new opportunities and challenges.
+- 👨‍💻 Life Hack: Continuously learn new technologies and share your knowledge.
 
-Thank you for visiting my GitHub profile!
+- ⚡ Fun fact: I spend most of my time playing games.
 
-Best Regards,
-[Your Name]
+## 🛠️ Technologies and Tools I Use:
+
+<p>
+  <!-- Add your technology badges here -->
+</p>
+
+## ❤️ Let's Connect:
+
+<p>
+  <a href="https://soumyajit.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My Website-9146FF.svg?style=for-the-badge&logo=appveyor&logoColor=white" height="30px">
+  </a>
+  <a href="https://twitter.com/soumyajit4419" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" height="30px">
+  </a>
+  <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px">
+  </a>
+  <a href="https://soumyajitblogs.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="30px">
+  </a>
+  <a href="https://www.instagram.com/soumyajit4419" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px">
+  </a>
+</p>
+
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px">
+</a>
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mirsisir&show_icons=true">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirsisir" alt="GitHub Streak">
+</div>
